@@ -8,12 +8,13 @@
 }
 
 .logo {
+	object-fit: cover;
 	width: 100vw;
-	height: 20vw;
-	min-width: 500px;
+	height: 50vw;
+	min-width: 100px;
 	min-height: 100px;
-	max-width: 1000px;
-	max-height: 200px;
+	max-width: 684px;
+	max-height: 316px;
 }
 
 #main_area {
